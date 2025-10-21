@@ -2,3 +2,5 @@ django
 djangorestframework
 django-filter
 python-dotenv
+django-jazzmin
+djangorestframework-simplejwt
